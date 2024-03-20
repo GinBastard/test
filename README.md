@@ -17,6 +17,9 @@ _здесь наклон шрифта_
 
 [Текст отображаемый ссылки](www.google.com)
 
+так вносится картинка по Markdown:
+![логотип](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png)
+
 ### Установка через CDN
 
 ### Установка через NPM
