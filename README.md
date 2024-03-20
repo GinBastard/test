@@ -20,6 +20,42 @@ _здесь наклон шрифта_
 так вносится картинка по Markdown:
 ![логотип](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png)
 
+
+так оформляется код с подстветкой и нумирацией:
+html
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a sample HTML code.</p>
+</body>
+</html>
+```
+
+
+python
+```python
+def add_numbers(a, b):
+    return a + b
+
+result = add_numbers(5, 10)
+print(result)
+```
+
+javascript
+```javascript
+function greet(name) {
+    console.log("Hello, " + name + "!");
+}
+
+greet("Alice");
+
+```
+
 ### Установка через CDN
 
 ### Установка через NPM
